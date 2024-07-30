@@ -12,7 +12,7 @@ body {
     white-space: nowrap;
     justify-content: center; /* 水平居中 */
     align-items: center; /* 垂直居中 */
-    width: 100%; /* 调整为全宽 */
+    width: 10%; /* 调整为全宽 */
     overflow: visible;
 }
 .heart span {
