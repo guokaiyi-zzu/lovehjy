@@ -10,6 +10,8 @@ body {
 .heart {
     position: relative;
     white-space: nowrap;
+    width: 100%;
+    height: 100%;
     justify-content: center; /* 水平居中 */
     align-items: center; /* 垂直居中 */
     width: 10%; /* 调整为全宽 */
