@@ -32,3 +32,9 @@ body {
 .heart span:hover {
     transform: skewX(0deg); /* 鼠标悬停时取消倾斜 */
 }
+
+@media (max-width: 1170px) and (max-height: 2532px) {
+    .heart span {
+        font-size: 20px;
+    }
+}
