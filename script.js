@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
         const height = container.offsetHeight;
         const centerX = width / 2;
         const centerY = height / 2;
-        const scale = Math.min(width, height) / 5; // 根据容器大小调整比例
+        const scale = Math.min(width, height) / 1; // 根据容器大小调整比例
 
         let frame = 0; // 帧计数器
 
